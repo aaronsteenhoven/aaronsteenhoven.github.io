@@ -1,0 +1,20 @@
+/* Carousel 1 */
+
+/* .pic-show {
+   
+    width:100%;
+} */
+
+* .carousel .carousel-item{
+    height: 40em;
+    background-size: 400px;
+    background-size: contain;
+}
+
+.carousel-item img{
+    min-height: 40em;
+    background-size: 400px;
+    width:100%;
+    background-size: contain;
+} 
+
