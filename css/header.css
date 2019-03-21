@@ -1,5 +1,12 @@
 .jumbotron {
-    background: url(../Assets/img/epcot.jpeg) center bottom;
+    background-color: lightsalmon;
     height: 30vh;
-    color:white;
+    color:whitesmoke;
+    text-align: center;
+    font-size:40px;
+    font-family: var(--font-one);
+}
+
+.lead{
+    font-size:30px;
 }

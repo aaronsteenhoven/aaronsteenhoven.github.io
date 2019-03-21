@@ -1,0 +1,69 @@
+.profile-pic{
+    position: relative;
+    left: 625px;
+    width: 300px;
+    height: 300px;
+}
+
+h2{
+    text-align: center;
+    font-size: 75px;
+    font-family: var(--font-one);
+}
+
+#skill-text{
+    font-size: 45px;
+    font-family: var(--font-one);
+    text-align: center;
+    color: white;
+}
+
+.js-logo{
+    height: 160px;
+    width: 160px;
+}
+
+.combo-logo{
+    height: 160px;
+    width: 340px;
+    margin: 0;
+
+}
+
+.tab-logo{
+    height: 160px;
+    width: 240px;
+}
+
+.oracle-logo{
+    height: 160px;
+    width: 230px;
+}
+
+.sql-logo{
+    height: 160px;
+    width: 180px;
+}
+
+.qb-logo{
+    height: 160px;
+    width: 170px;
+}
+
+.about-me-wrapper{
+    border: 4px dotted black;
+    font-family: var(--font-four);
+    font-size: 25px;
+}
+
+.about-me-text{
+
+}
+
+.about-me-2{
+    
+}
+
+.about-me-3{
+    
+}

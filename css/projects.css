@@ -1,0 +1,16 @@
+#links{
+    max-width: 500px;;
+    height:300px;
+    
+}
+
+#row{
+    background-color: lightsalmon;
+}
+
+.card-text{
+    font-size: 27.5px;
+    font-family: var(--font-one);
+    font-display: bold;
+    text-align: center;
+}

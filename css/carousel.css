@@ -8,13 +8,33 @@
 * .carousel .carousel-item{
     height: 40em;
     background-size: 400px;
-    background-size: contain;
 }
 
 .carousel-item img{
     min-height: 40em;
     background-size: 400px;
     width:100%;
-    background-size: contain;
 } 
+
+h5{
+    font-display: bold;
+    font-size: 35px;
+    color: rgb(225, 241, 1); opacity: 1.0 !important;
+    /* background-color: black; */
+}
+
+.carousel-caption {
+    background-color: black; opacity: 0.5;
+    border-radius: 30px;
+    font-size: 30px;
+    font-display: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.carousel-caption .p{
+   font-size: 25px;
+   
+    
+}
+
 
