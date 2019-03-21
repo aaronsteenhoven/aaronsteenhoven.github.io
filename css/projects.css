@@ -14,3 +14,10 @@
     font-display: bold;
     text-align: center;
 }
+
+.card-title{
+    color: yellow;
+    font-display: bold;
+    font-size: 45px;
+    text-align: center;
+}
